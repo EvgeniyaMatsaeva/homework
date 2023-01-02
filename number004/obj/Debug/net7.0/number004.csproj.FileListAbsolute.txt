@@ -1,0 +1,15 @@
+C:\Users\79037\Desktop\C#домашка\homework\number004\bin\Debug\net7.0\number004.exe
+C:\Users\79037\Desktop\C#домашка\homework\number004\bin\Debug\net7.0\number004.deps.json
+C:\Users\79037\Desktop\C#домашка\homework\number004\bin\Debug\net7.0\number004.runtimeconfig.json
+C:\Users\79037\Desktop\C#домашка\homework\number004\bin\Debug\net7.0\number004.dll
+C:\Users\79037\Desktop\C#домашка\homework\number004\bin\Debug\net7.0\number004.pdb
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.csproj.AssemblyReference.cache
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.AssemblyInfoInputs.cache
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.AssemblyInfo.cs
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.csproj.CoreCompileInputs.cache
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.dll
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\refint\number004.dll
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.pdb
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\number004.genruntimeconfig.cache
+C:\Users\79037\Desktop\C#домашка\homework\number004\obj\Debug\net7.0\ref\number004.dll
